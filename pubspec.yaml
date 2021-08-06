@@ -1,0 +1,19 @@
+name: wrapped_korean_text
+description: A new Flutter package project.
+version: 0.0.1
+author: Remedi
+homepage: https://github.com/studio-b-co-kr/wrapped_korean_text
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
