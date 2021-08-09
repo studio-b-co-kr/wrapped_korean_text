@@ -2,7 +2,7 @@
 
 Wrapping Korean Text without word-breaks.
 
-![alt text](https://github.com/studio-b-co-kr/wrapped_korean_text/master/example/assets/demo.PNG?raw=true)
+![alt text](https://github.com/studio-b-co-kr/wrapped_korean_text/blob/master/example/assets/demo.PNG?raw=true)
 
 ## Installation
 
