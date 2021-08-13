@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 class WrappedKoreanText extends StatefulWidget {
   final String text;
-  final TextStyle style;
+  final TextStyle? style;
   final TextAlign textAlign;
   final int maxLines;
 
